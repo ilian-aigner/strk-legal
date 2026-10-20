@@ -3,8 +3,8 @@
 The privacy policy and terms of service for the STRK app, published to GitHub
 Pages so App Store Connect and Google Play have a reachable URL.
 
-- [Privacy Policy](https://iaigner-bot.github.io/strk-legal/privacy-policy.html)
-- [Terms of Service](https://iaigner-bot.github.io/strk-legal/terms-of-service.html)
+- [Privacy Policy](https://ilian-aigner.github.io/strk-legal/privacy-policy.html)
+- [Terms of Service](https://ilian-aigner.github.io/strk-legal/terms-of-service.html)
 
 ## This is a mirror
 
